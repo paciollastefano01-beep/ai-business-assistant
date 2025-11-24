@@ -1,0 +1,12 @@
+# Ambiente virtuale
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Variabili ambiente (NON inviare la tua API key a GitHub)
+.env
+
+# Config Streamlit locale
+.streamlit/
